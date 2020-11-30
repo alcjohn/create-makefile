@@ -1,26 +1,26 @@
 {
-	"name": "create-makefile",
-	"version": "1.0.0",
-	"description": "A CLI to init makefile",
-	"main": "index.js",
-	"bin": {
-		"create-makefile": "bin/create-makefile"
-	},
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [
-		"makefile"
-	],
-	"files": [
-		"bin/",
-		"src/",
-		"templates/"
-	],
-	"author": "John Bioux",
-	"license": "MIT",
-	"dependencies": {
-		"esm": "^3.2.25",
-		"fs-extra": "^9.0.1"
-	}
+  "name": "create-makefile",
+  "version": "1.0.1",
+  "description": "A CLI to init makefile",
+  "main": "index.js",
+  "bin": {
+    "create-makefile": "bin/create-makefile"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "makefile"
+  ],
+  "files": [
+    "bin/",
+    "src/",
+    "templates/"
+  ],
+  "author": "John Bioux",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "fs-extra": "^9.0.1"
+  }
 }
