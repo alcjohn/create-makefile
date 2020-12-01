@@ -1,6 +1,6 @@
 {
   "name": "create-makefile",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A CLI to init makefile",
   "main": "index.js",
   "bin": {
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alcjohn/create-makefile.git"
   },
   "keywords": [
     "makefile"
